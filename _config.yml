@@ -1,7 +1,7 @@
 name: Ellen Beier
 favicon: null
-layout_spectrum: 0.7583887735381722
-typography_spectrum: 0.8935739514417946
+layout_spectrum: 1
+typography_spectrum: 0.31554
 title: Illustrator
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.41507138148881495
+  brandStrength: 0.625
   lightness: 0.8155915311072022
-  saturation: 0.2506533854175359
-  rhythmicContrast: 0.18801548262126744
+  saturation: 0.25
+  rhythmicContrast: 0.5
 purpose: []
