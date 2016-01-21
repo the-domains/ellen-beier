@@ -4,15 +4,8 @@
         <description><![CDATA[Illustrator]]></description>
         <link>https://thegrid.ai/ellen-beier/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 02:11:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jan 2016 02:11:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ellen-beier/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://www.childrensillustrators.com/portfolioIllustrations/45784.jpg">]]></description>
-            <link>https://thegrid.ai/ellen-beier/cf3345ad-3c8a-4c88-b265-3b82b7ab6897/index.html</link>
-            <guid isPermaLink="false">cf3345ad-3c8a-4c88-b265-3b82b7ab6897</guid>
-            <pubDate>Thu, 21 Jan 2016 02:10:14 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.childrensillustrators.com/portfolioIllustrations/45782.jpg">]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<img src="http://www.childrensillustrators.com/portfolioIllustrations/62802.jpg">]]></description>
             <link>https://thegrid.ai/ellen-beier/a72aaf9e-063c-4445-808c-dea570620926/index.html</link>
             <guid isPermaLink="false">a72aaf9e-063c-4445-808c-dea570620926</guid>
+            <pubDate>Thu, 21 Jan 2016 02:10:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.childrensillustrators.com/portfolioIllustrations/62803.jpg">]]></description>
+            <link>https://thegrid.ai/ellen-beier/062c4b56-7b6e-4c08-9990-a688244c644e/index.html</link>
+            <guid isPermaLink="false">062c4b56-7b6e-4c08-9990-a688244c644e</guid>
             <pubDate>Thu, 21 Jan 2016 02:10:14 GMT</pubDate>
         </item>
     </channel>
