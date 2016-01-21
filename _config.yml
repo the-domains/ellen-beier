@@ -1,0 +1,28 @@
+name: Ellen Beier
+favicon: null
+layout_spectrum: 0.7583887735381722
+typography_spectrum: 0.8935739514417946
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.41507138148881495
+  lightness: 0.8155915311072022
+  saturation: 0.2506533854175359
+  rhythmicContrast: 0.18801548262126744
+purpose: []
